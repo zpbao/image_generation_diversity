@@ -1,7 +1,7 @@
 ## *DiscoFaceGAN*: *Dis*entangled and *Co*ntrollable Face Image Generation via 3D Imitative-Contrastive Learning ##
 
 <p align="center"> 
-<img src="/images/teaser.gif">
+<img src="./images/teaser.gif">
 </p>
 
 
@@ -21,7 +21,7 @@ Abstract: _We propose **DiscoFaceGAN**, an approach for face image generation of
 When generating face images, we can freely change the four factors including identity, expression, lighting, and pose. The factor variations are highly disentangled: changing one factor does not affect others.
 
 <p align="center"> 
-<img src="/images/disentangled.png">
+<img src="./images/disentangled.png">
 </p>
 
 
@@ -29,25 +29,25 @@ When generating face images, we can freely change the four factors including ide
 We achieve reference-based generation where we extract expression, pose and lighting from a given image and generate new identities with similar properties.
 
 <p align="center"> 
-<img src="/images/reference.png" width="600">
+<img src="./images/reference.png" width="600">
 </p>
 
 ### ● Real image pose manipulation
 We can use our method to embed a real image into the disentangled latent space and edit it, such as pose manipulation.
 <p align="center"> 
-<img src="/images/pose.png" width="700">
+<img src="./images/pose.png" width="700">
 </p>
 
 ### ● Real image lighting editing
 We can edit the lighting of a real image.
 <p align="center"> 
-<img src="/images/light.png" width="600">
+<img src="./images/light.png" width="600">
 </p>
 
 ### ● Real image expression transfer
 We can also achieve expression transfer of real images.
 <p align="center"> 
-<img src="/images/expression.png" width="600">
+<img src="./images/expression.png" width="600">
 </p>
 
 ##
